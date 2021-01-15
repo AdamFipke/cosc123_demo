@@ -6,6 +6,7 @@ This is text in the body
 
 to bold, put two astricies on either side of the **word**
 
+to italisize, put one astrix on either side of the *word*
 ### level 3 heading
 
 If you want to make a list:
@@ -24,7 +25,6 @@ This is a break
 
 1. Item A
 1. Item B
-1. Item C
 1. Item d
 1. Item e
 1. Item f
